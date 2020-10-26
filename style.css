@@ -1,0 +1,73 @@
+.jumbotron {
+    background-color: #f4511e;
+}
+.navbar{
+    float: right;
+}
+.btn-danger {
+    border-radius: 0%;
+}
+i{
+    color: #f4511e;
+}
+.fa-200x {
+    font-size: 200px !important;
+    font-weight: bold;
+}
+.bg-grey {
+    background-color: #f6f6f6;
+}
+.fa-50x {
+    font-size: 50px !important;
+}
+h4 {
+    margin-bottom: 30px;
+}
+.card {
+    border-radius: 0%;
+}
+table {
+    border: 1px solid #f4511e;
+}
+table:hover {
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+th {
+    height: 100px;
+    padding: 50px;
+    padding-bottom: 30px !important;
+    background-color: #f4511e;
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+}
+td {
+    border: none !important;
+}
+tfoot {
+    border-top: 1px solid gainsboro;
+}
+.btn-orange {
+    background-color: #f4511e;
+    border-radius: 5px;
+}
+.btn-orange:hover {
+    background-color: white;
+    border: 1px solid #f4511e;
+}
+.logo {
+    position: absolute;
+    padding-bottom: -50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    color: white;
+    font-weight: lighter;
+    font-size: 25px;
+}
+.logo:hover {
+    color: white;
+    text-decoration: none;
+}
+.nav-item {
+    color: white;
+}
